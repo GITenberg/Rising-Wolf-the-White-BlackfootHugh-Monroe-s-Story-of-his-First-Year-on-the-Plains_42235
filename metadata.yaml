@@ -1,0 +1,43 @@
+_repo: Rising-Wolf-the-White-BlackfootHugh-Monroe-s-Story-of-his-First-Year-on-the-Plains_42235
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoonover, Frank E.
+    alias: Schoonover, Frank Earle
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '31362'
+    url: http://www.gutenberg.org/2009/agents/31362
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schultz, James Willard
+    aliases:
+    - Far Off White Robe
+    - Schultz, J. W. (James Willard)
+    - Spotted Robe
+    - Apikuni
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '41587'
+    url: http://www.gutenberg.org/2009/agents/41587
+    wikipedia: http://en.wikipedia.org/wiki/James_Willard_Schultz
+description: ''
+gutenberg_issued: '2013-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42235'
+  lccn: '19017756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siksika Indians'
+- !lcc 'E011'
+- !lcsh 'Monroe, Hugh, 1798-1895 or 1896'
+title: "Rising Wolf, the White Blackfoot\r\nHugh Monroe's Story of His First Year\
+  \ on the Plains"
+url: http://www.gutenberg.org/ebooks/42235
